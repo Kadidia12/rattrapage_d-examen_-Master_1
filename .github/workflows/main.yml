@@ -18,4 +18,4 @@ jobs:
     - name: Run the plot_curves script
   run: |
     ls -R  # Affiche le contenu du répertoire de travail
-    python main.py
+    python ./to/main.py
