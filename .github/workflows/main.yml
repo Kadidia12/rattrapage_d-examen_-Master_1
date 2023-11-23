@@ -18,4 +18,4 @@ jobs:
     - name: Run the plot_curves script
   run: |
     ls -R  # Affiche le contenu du répertoire de travail
-    python C:\Users\Kadidiatou Karembé\Desktop\rattrapage_d-examen_-Master_1\main.py/to/main.py
+    python ./main.py
