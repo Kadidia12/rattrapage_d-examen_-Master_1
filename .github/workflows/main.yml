@@ -16,4 +16,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install numpy matplotlib
     - name: Run the plot_curves script
-      run: python main.py
+  run: |
+    ls -R  # Affiche le contenu du répertoire de travail
+    python C:\Users\Kadidiatou Karembé\Desktop\rattrapage_d-examen_-Master_1\main.py/to/main.py
